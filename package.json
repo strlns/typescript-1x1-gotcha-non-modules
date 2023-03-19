@@ -1,0 +1,14 @@
+{
+  "name": "ts-1x1",
+  "version": "0.0.1",
+  "description": "Stupid TypeScript question and answer",
+  "author": "Moritz Rehbach",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "scripts": {
+    "build": "tsc",
+    "check": "tsc --noEmit"
+  },
+  "type": "module"
+}
